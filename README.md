@@ -2,12 +2,19 @@
 
 # 👨🏻‍💻 Leandro Alexandre  
 
-## Desenvolvedor de Software
+## Desenvolvedor de Software 
+- 🔭 Atualmente, trabalho na **Montreal Informática** como Auxiliar Administrativo.  
+- 📫 Estudo **Análise e Desenvolvimento de Sistemas** na **Universidade Estaácio de Sá**.
 
-**Objetivo Principal:** Estagiar na área de Tecnologia da Informação.  
-
-Estudante de **Análise e Desenvolvimento de Sistemas** (4° semestre) na **Universidade Estácio de Sá**, com previsão de conclusão em 2025.  
-
+  <div>
+  <a href = "mailto:leandrosouzabr00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+    <a href="https://www.linkedin.com/in/leandro-alexandre/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
+</div>
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👾 Linguagens e Tecnologias  
