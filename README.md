@@ -4,7 +4,7 @@
 
 ## Desenvolvedor de Software 
 - 🔭 Atualmente, trabalho na **Montreal Informática** como Auxiliar Administrativo.  
-- 📫 Estudo **Análise e Desenvolvimento de Sistemas** na **Universidade Estaácio de Sá**.
+- 📫 Estudo **Análise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá**.
 
   <div>
   <a href = "mailto:leandrosouzabr00@gmail.com">
