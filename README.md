@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 Leandro Alexandre  
 
-## Desenvolvedor Back-end/Front-end  
+## Desenvolvedor de Software
 
 **Objetivo Principal:** Estagiar na área de Tecnologia da Informação.  
 
