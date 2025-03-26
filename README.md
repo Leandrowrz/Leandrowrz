@@ -3,8 +3,7 @@
 # 👨🏻‍💻 Leandro Alexandre  
 
 ## Desenvolvedor de Software 
-- 🔭 Atualmente, trabalho na **Montreal Informática** como Auxiliar Administrativo.  
-- 📫 Estudo **Análise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá**.
+- 📫 Estudo **Ciência da Computação** na **Universidade Estácio de Sá - UNESA**.
 
   <div>
   <a href = "mailto:leandrosouzabr00@gmail.com">
@@ -14,12 +13,12 @@
     <a href="https://www.linkedin.com/in/leandro-alexandre/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
-</div>
+ </div>
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👾 Linguagens e Tecnologias  
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql,mongodb,git&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql,mongodb,git,csharp&theme=light)](https://skillicons.dev)
 **Metodologias Ágeis:** Scrum, Kanban  
 
 ---------------------------------------------------------------------------------------------------------------------------------------
