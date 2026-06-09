@@ -1,9 +1,9 @@
-👨🏻‍💻 Leandro Alexandre
-Desenvolvedor de Software | Gestão de Projetos de TI
+👨🏻‍💻 Leandro Alexandre 
+Desenvolvedor de Software | Business intelligence 
 
 📫 Estudante de Ciência da Computação na Universidade Estácio de Sá - UNESA.
 
-🚀 Estagiário na área de Gestão de Projetos de TI na Ternium Brasil.
+🚀 Business intelligence intern na Ternium Brasil.
 
 📊 Experiência com análise de dados, indicadores e metodologias ágeis, atuando na interface entre desenvolvimento e gestão.
 
